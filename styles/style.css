@@ -1,0 +1,27 @@
+body {
+    font-family: Monospace;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 14px;
+}
+
+#noteBtn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    outline: none;
+    padding: 5px;
+    border: 1px solid;
+    background-color: white;
+}
+
+.note {
+    display: block;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 20px;
+    font-size: 16px;
+}
